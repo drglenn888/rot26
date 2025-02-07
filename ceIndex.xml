@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<index version="1.0">
+  <indexitem text="Index">
+    <indexitem text="A">
+      <indexitem target="Agency" text="Agency"/>
+    </indexitem>
+    <indexitem text="B">
+      <indexitem target="Balancing Report" text="Balancing Report"/>
+    </indexitem>
+    <indexitem text="C">
+      <indexitem target="Contribution" text="Contribution"/>
+      <indexitem target="Contribution List Screen" text="Contribution List Screen"/>
+      <indexitem target="Contribution Detail Screen" text="Contribution Detail Screen"/>
+    </indexitem>
+    <indexitem text="E">
+	<indexitem target="Earnings" text="Earnings"/>
+	<indexitem target="Employee Pension Contribution" text="Employee Pension Contribution"/>
+	<indexitem target="Employee Health Contribution" text="Employee Health Contribution"/>
+	<indexitem target="Employee Purchase Payment" text="Employee Purchase Payment"/>
+	<indexitem target="Employee Earnings" text="Employee Earnings"/>
+	<indexitem target="Employer Pension Contribution" text="Employer Pension Contribution"/>
+	<indexitem target="Employer Health Contribution" text="Employer Health Contribution"/>
+	<indexitem target="Export" text="Export"/>
+	<indexitem target="Export Type" text="Export Type"/>
+	<indexitem target="Export Path" text="Export Path"/>
+    </indexitem>
+    <indexitem text="H">
+      <indexitem target="Hours in Work Year" text="Hours in Work Year"/>
+      <indexitem target="Hours Worked" text="Hours Worked"/>
+    </indexitem>
+    <indexitem text="N">
+      <indexitem target="Name" text="Name"/>
+    </indexitem>
+    <indexitem text="P">
+      <indexitem target="Pay Period" text="Pay Period"/>
+      <indexitem target="Pay Period Screen" text="Pay Period Screen"/>
+      <indexitem target="Payroll Description" text="Payroll Description"/>
+      <indexitem target="Percent of Time Worked" text="Percent of Time Worked"/>
+      <indexitem target="Police/Firefighter Check" text="Police/Firefighter Check"/>
+      <indexitem target="Program Overview" text="Program Overview"/>
+    </indexitem>
+    <indexitem text="R">
+      <indexitem target="Record Type" text="Record Type"/>
+      <indexitem target="Record Type Code" text="Record Type Code"/>
+    </indexitem>
+    <indexitem text="S">
+      <indexitem target="Sequence" text="Sequence"/>
+      <indexitem target="Setup Screen" text="Setup Screen"/>
+      <indexitem target="Social Security Number" text="Social Security Number"/>
+      <indexitem target="Source of Funds" text="Source of Funds"/>
+      <indexitem target="Source of Funds Code" text="Source of Funds Code"/>
+      <indexitem target="Support" text="Support"/>
+    </indexitem>
+    <indexitem text="T">
+      <indexitem target="Transaction Date" text="Transaction Date"/>
+    </indexitem>
+  </indexitem>
+</index>

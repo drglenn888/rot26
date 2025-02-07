@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<toc version="1.0">
+
+   <tocitem>Overview
+	    <tocitem text="Program Overview" target="Program Overview"/>
+   </tocitem>	
+
+   <tocitem>Setup
+	    <tocitem text="Setup Screen" target="Setup Screen"/>
+	    <tocitem text="Agency" target="Agency"/>
+	    <tocitem text="Sequence" target="Sequence"/>
+	    <tocitem text="Export Type" target="Export Type"/>
+	    <tocitem text="Export Path" target="Export Path"/>
+	    <tocitem text="Payroll Description" target="Payroll Description"/>
+    </tocitem>	
+
+    <tocitem>Contributions
+        <tocitem text="Contribution List Screen" target="Contribution List Screen"/>
+        <tocitem text="Contribution Detail Screen" target="Contribution Detail Screen"/>
+	<tocitem text="Name" target="Name"/>
+	<tocitem text="Social Security Number" target="Social Security Number"/>
+	<tocitem text="Source of Funds" target="Source of Funds"/>
+	<tocitem text="Source of Funds Code" target="Source of Funds Code"/>
+	<tocitem text="Record Type" target="Record Type"/>
+	<tocitem text="Employee Pension Contribution" target="Employee Pension Contribution"/>
+	<tocitem text="Employee Health Contribution" target="Employee Health Contribution"/>
+	<tocitem text="Employee Purchase Payment" target="Employee Purchase Payment"/>
+	<tocitem text="Employee Earnings" target="Employee Earnings"/>
+	<tocitem text="Employer Pension Contribution" target="Employer Pension Contribution"/>
+	<tocitem text="Employer Health Contribution" target="Employer Health Contribution"/>
+	<tocitem text="Police/Firefighter Check" target="Police/Firefighter Check"/>
+	<tocitem text="Transaction Date" target="Transaction Date"/>
+	<tocitem text="Percent of Time Worked" target="Percent of Time Worked"/>
+	<tocitem text="Hours Worked" target="Hours Worked"/>
+	<tocitem text="Hours in Work Year" target="Hours in Work Year"/>
+   </tocitem>
+
+   <tocitem>Pay Period
+	    <tocitem text="Pay Period Screen" target="Pay Period Screen"/>
+	    <tocitem text="Pay Period" target="Pay Period"/>
+   </tocitem>
+
+   <tocitem>Reports
+	<tocitem text="Balancing Report" target="Balancing Report"/>
+	<tocitem text="Record Type Code" target="Record Type Code"/>
+	<tocitem text="Contribution" target="Contribution"/>
+	<tocitem text="Earnings" target="Earnings"/>
+   </tocitem>	
+
+   <tocitem>Export
+	    <tocitem text="Export" target="Export"/>
+   </tocitem>
+
+   <tocitem>Support
+	    <tocitem text="Support" target="Support"/>
+   </tocitem>
+
+</toc>
